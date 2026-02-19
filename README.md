@@ -35,6 +35,20 @@
 - Dynamically responsive layout
 - Adaptive window sizing based on visible controls
 
+## Screenshots
+
+### Main Interface
+
+![Screenshot 1](screenshot1.png)
+
+### Settings & Configuration
+
+![Screenshot 2](screenshot2.png)
+
+### CPS Tester Showcase
+
+![Showcase GIF](showcase.gif)
+
 ## Installation
 
 ### Quick Start (Precompiled)
@@ -113,19 +127,6 @@ Click "Change Hotkey" to open the capture dialog:
 2. Optionally add more keys (e.g., press B to make it Ctrl+Shift+A+B)
 3. Click "Apply" to save
 
-## Screenshots
-
-### Main Interface
-
-![Screenshot 1](screenshot1.png)
-
-### Settings & Configuration
-
-![Screenshot 2](screenshot2.png)
-
-### CPS Tester Showcase
-
-![Showcase GIF](showcase.gif)
 
 ## Development
 
