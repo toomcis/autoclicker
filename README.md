@@ -5,7 +5,7 @@
 
   A modern, easy-to-use auto clicker with human-like clicking patterns and advanced targeting options.
 
-  ⚠️ **Vibe Coded Application** - This project was developed with vibes and AI. If you find any bugs or issues, please [open an issue](https://github.com/toomcis/autoclicker/issues) so we can fix them together!
+  ⚠️ **Vibe Coded Application** - This project was developed with vibes and AI. If you find any bugs or issues, please [open an issue](https://github.com/toomcis/autoclicker/issues) so they can be fixed!!
 
 </div>
 
