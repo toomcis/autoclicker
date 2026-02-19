@@ -37,11 +37,11 @@
 
 ## Screenshots
 
-### Main Interface
+### Main Interface with Fixed CPS and PostMessage (Out of focus clicks)
 
 ![Screenshot 1](screenshot1.png)
 
-### Settings & Configuration
+### Main Interface with Random CPS and Global clicks (Normal In Focus Mouse Clicks)
 
 ![Screenshot 2](screenshot2.png)
 
