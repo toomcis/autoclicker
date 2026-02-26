@@ -219,7 +219,7 @@ Found a bug? 🐛 Please help us improve!
 
 ## License
 
-This project is provided as-is. Feel free to use, modify, and distribute!
+This project uses the MIT license
 
 ## Contributing
 
@@ -227,4 +227,4 @@ Pull requests welcome! Feel free to fork and contribute improvements.
 
 ---
 
-**Made with ❤️ and vibes** — Enjoy your AutoClicker!
+**Made with ❤️** — Enjoy your AutoClicker!
